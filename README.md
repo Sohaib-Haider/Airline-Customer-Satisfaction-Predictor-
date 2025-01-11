@@ -1,41 +1,50 @@
 ✈️ Airline Customer Satisfaction Predictor
 
-
-🚀 Overview 
+🚀 Overview
 
 This project focuses on building a machine learning model to predict airline customer satisfaction. It classifies customers as either satisfied or dissatisfied, based on various flight-related attributes such as inflight service, seat comfort, and cleanliness.
-
 
 📊 Dataset
 
 The dataset contains features like:
 
 Flight Distance
+
 Seat Comfort
+
 Inflight Service
+
 Food Quality
+
 Cleanliness
+
 Customer Type (Loyal/First-time)
+
 Age, Gender, and Travel Class
 
 The target variable is customer satisfaction, labeled as:
-Satisfied / Dissatisfied
 
+Satisfied
+
+Dissatisfied
 
 🔧 Tools and Technologies
 
 Python
-Pandas for data manipulation
-Seaborn and Matplotlib for data visualization
-Scikit-learn for building machine learning models
 
+Pandas for data manipulation
+
+Seaborn and Matplotlib for data visualization
+
+Scikit-learn for building machine learning models
 
 🧪 Models Used
 
 Logistic Regression
-Random Forest
-K-Nearest Neighbors (KNN)
 
+Random Forest
+
+K-Nearest Neighbors (KNN)
 
 📈 Results
 
